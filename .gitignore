@@ -1,0 +1,19 @@
+# Large / re-downloadable
+models/*.dat
+data/videos/*.avi
+data/videos/*.mp4
+
+# Compiled MEX binaries (rebuild from detector.cpp)
+*.mexa64
+*.mexw64
+*.mexmaci64
+
+# Ground truth 1-4: remove these lines only if the dataset license allows redistribution
+data/ground_truth/ground_truth[1-4].txt
+
+# MATLAB
+*.asv
+*.m~
+*.mat
+slprj/
+.DS_Store

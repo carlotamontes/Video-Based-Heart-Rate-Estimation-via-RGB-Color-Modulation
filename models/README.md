@@ -2,8 +2,7 @@
 
 Expected file: `shape_predictor_68_face_landmarks.dat` (~99.7 MB, dlib 68-point face landmark model).
 
-Not included in the reduced archive. Restore it by either:
-- copying your original file from the original ZIP / `Projeto - Cópia` folder into this folder, or
+Not included in the reduced archive. Restore it by:
 - downloading <http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2> and extracting it here.
 
 Original file: 99,693,937 bytes, SHA-256

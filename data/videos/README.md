@@ -4,7 +4,7 @@ Expected files (referenced by the scripts in `src/`, not part of the archive tha
 
 | File | Used by | Ground truth |
 |---|---|---|
-| `subject_1.avi` through `subject_4.avi` | `src/pos_subject1.m` | `../ground_truth/ground_truth1.txt` |
-| `subject_5.avi` through `subject_6.avi` | `src/pos_camera_subject6.m` | `../ground_truth/ground_truth6.txt` |
+| `subject_1.avi` through `subject_4.avi` | `src/main_entrega.m` | `../ground_truth/ground_truth1.txt` |
+| `subject_5.avi` through `subject_6.avi` | `src/main_camera2.m` | `../ground_truth/ground_truth6.txt` |
 
 Keep the original videos untouched; these files are git-ignored.
